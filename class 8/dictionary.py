@@ -35,3 +35,7 @@ print(info)
 #or
 del info
 '''
+info = {"name": "Mahfuzur Rahman", "Id": "172-35-2207", "Department": "Software Engineering"}
+print("infoASstring: ", str(info))
+print("Type: ", type(info))
+print("directory: ", dir(info))
