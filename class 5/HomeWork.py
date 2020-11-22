@@ -4,7 +4,7 @@ print("Display Data")
 print("Search Data")
 print("Edit Data")
 print("Delete Data")
-print("Exit\n")
+
 
 inp = int(input("How many layer do you want? "))
 
